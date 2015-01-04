@@ -1,15 +1,18 @@
-/* Project realized from January 2014 to March 2014 for a physics course-project at cégep by Jonathan Guillotte-Blouin (software and a little bit hardware) and Alexandre Larose (hardware) */
+/* Project realized from January 2014 to March 2014 for a physics course-project at cégep by Jonathan Guillotte-Blouin
+   (software and a little bit hardware) and Alexandre Larose (hardware) */
 
-/* The robot has 2 independent DC engines, a distance sensor, a collision sensor, a quadruple half h-bridge (L293D) and an Arduino Uno board */
+/* The robot has 2 independent DC engines, a distance sensor, a collision sensor, a quadruple half h-bridge (L293D) and 
+   an Arduino Uno board */
 
-/* Its goal is to turn on itself until it finds a target in a radius of 70 cm (the distance sensor limit), make sure it indeed is an object, then go towards it, then stop if front of it
-   when a collision is detected by the collision sensor. */
+/* Its goal is to turn on itself until it finds a target in a radius of 70 cm (the distance sensor limit), make sure it 
+   indeed is an object, then go towards it, then stop if front of it when a collision is detected by the collision 
+   sensor. */
    
-/* When testing, the Arduino was alimented by a USB 2.0 cable connected to the computer, and it would communicate via a serial monitor displayed in the Arduino IDE many information that we 
-   found helpful. */
+/* When testing, the Arduino was alimented by a USB 2.0 cable connected to the computer, and it would communicate via a 
+   serial monitor displayed in the Arduino IDE many information that we found helpful. */
    
-/* This was done with little prior experience in programming (only a little bit of JavaScript at the time) and in hands-on electronics. It mixes programming, theoretical and practical knowledge
-   of electricity and a lot of research. */
+/* This was done with little prior experience in programming (only a little bit of JavaScript at the time) and in hands-on 
+   electronics. It mixes programming, theoretical and practical knowledge of electricity and a lot of research. */
 
 
 #define leftF 5 // left engine forwards
