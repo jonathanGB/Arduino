@@ -14,7 +14,7 @@ Video Description
 
 
 
- Flexion Sensor Demo Video
+ Flexion Sensor Demo Video (demo starts @ 0:39)
  -------------------------
 
 --> This is the flexion sensor we used on our mobile robot adapted to its environment. It is basically a variable resistor which has a 10 kOhms nominal resistance, but when flexed, its resistance diminishes.
