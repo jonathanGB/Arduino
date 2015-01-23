@@ -2,7 +2,8 @@ Video Description
 =================
 
 
-==> Final Project Video
+ Final Project Video
+ -------------------
 
 --> This was the day of the presentation of our physics project to the whole cégep. There was a competition for the best project of the day with the other teams in many scientific areas, which we won! 
 
@@ -10,7 +11,8 @@ Video Description
 
 
 
-==> Flexion Sensor Demo Video
+ Flexion Sensor Demo Video
+ -------------------------
 
 --> This is the flexion sensor we used on our mobile robot adapted to its environment. It is basically a variable resistor which has a 10 kOhms nominal resistance, but when flexed, its resistance diminishes.
 
