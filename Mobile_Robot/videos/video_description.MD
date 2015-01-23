@@ -9,7 +9,7 @@ Video Description
 
 --> So, at the beginning the robot turns on itself and emits red light (part of a RGB LED). When it spots something within 70cm, it stops, does a little light show (a "chenillard"); after 1.5 seconds, another reading is done with the distance sensor. If nothing is detected, it was just noise (or maybe a foot moving in front), so it keeps spinning and emitting red. Otherwise, it goes towards the target, blinking the red LED. When it detects the target to be somewhat close, it slows down, and starts blinking blue light. Finally, when a collision is detected (with the flexion sensor), engines are shut off and the RGB LED blinks green!
 
-
+<br><br>
 
 
 
